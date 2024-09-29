@@ -42,7 +42,8 @@ mysql:8.1
 docker ps
 ```
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/373d6c32-f869-4651-a36f-b16af7348a41/5a4c286e-f9a4-4622-8ba2-b077415ed108/image.png)
+![Screenshot from 2024-09-29 15-50-18](https://github.com/user-attachments/assets/66320a12-c044-4553-8510-16af8f06c786)
+
 
 - Execute the docker image with the name of the image
 
@@ -50,7 +51,8 @@ docker ps
 docker exec -it funny_nobel mysql -uaryan -p
 ```
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/373d6c32-f869-4651-a36f-b16af7348a41/18e4191c-8c5d-43f4-806d-13853cae22a9/image.png)
+![Screenshot from 2024-09-29 15-54-36](https://github.com/user-attachments/assets/e0ade747-f5d2-48a9-ba4e-8723d24bf05c)
+
 
 - If the docker image was stopped, we need to start the image again for mysql to run.
 
@@ -122,5 +124,5 @@ python3 analytics.py
 After running all the graphs are stored in the same folder as png files and csv files for checking the changes in the dataset after every section - 1,2,3
 
 The folder structure will be as follows:
+![Screenshot from 2024-09-29 16-41-43](https://github.com/user-attachments/assets/d633ef58-1cd7-4e0f-9c48-fb0998c5984b)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/373d6c32-f869-4651-a36f-b16af7348a41/8edc2444-1f85-476c-a9b1-6efcf8f1dce5/image.png)
