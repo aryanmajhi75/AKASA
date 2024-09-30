@@ -1,5 +1,9 @@
 # AKASA
- 
+
+## Analysis Report
+[AnalysisReport-2347107.pdf](https://github.com/user-attachments/files/17184773/AnalysisReport-2347107.pdf)
+
+
 ## Setup Instructions
 
 > Note:  the instructions are based on my own system i.e., Ubuntu Linux 24.04 LTS, if you are using any other system then follow the instructions for that OS.
